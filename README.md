@@ -11,7 +11,7 @@
 
 😄 If you're Curious about What I do, Feel Free to Check out my Works or Connect with me!  
 
-🎲 Fun fact: NOTHING BEATS THE FEELING WHEN MY CODE FINALLY WORKS ADTER HOURS 😄
+🎲 Fun fact: NOTHING BEATS THE FEELING WHEN MY CODE FINALLY WORKS AFTER HOURS 😄
 
 
 <p align="left">
