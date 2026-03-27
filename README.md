@@ -1,19 +1,20 @@
 <h1 align="center">Hi There 👋 I'm Anjana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h3 align="left">Connect with me:</h3>
-🪄 Exploring Cool Tech & Building Creative Projects.
 
+🪄 Exploring cool tech & building creative projects.
 
-🔭 Learning Something New Every Day & Creating Works that Speaks for Itself.
+🔭 Learning something new every day & creating works that speaks for itself.
 
-🎯 Currently Focusing on Solving Tough Problems with Simple Approaches & Contributing to Projects that make a real difference.
+🎯 Currently focusing on solving tough problems with simple approaches & contributing to projects that make a real difference.
 
-🤔 Curious about How Things Works Behind The Scenes.
+🤔 Curious about how things works behind the scenes.
 
-😄 If you're Curious about What I do, Feel Free to Check out my Works or Connect with me!  
+😄 If you're curious about what I do, feel free to check out my woh orks or Connect with me!  
 
 🎲 Fun fact: NOTHING BEATS THE FEELING WHEN MY CODE FINALLY WORKS AFTER HOURS 😄
 
+Portfolio: https://anjanaav.github.io/PORTFOLIO/
 
 <p align="left">
 </p>
