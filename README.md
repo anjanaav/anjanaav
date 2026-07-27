@@ -6,7 +6,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-Portfolio: https://anjanaav.github.io/PORTFOLIO/
+Portfolio: https://anjana-portfolio-zeta.vercel.app/
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/av_pg09) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.an_jana_av._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/avanjana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjana.a.vinodkumar@gmail.com) 
 
